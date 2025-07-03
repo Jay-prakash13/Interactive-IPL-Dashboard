@@ -1,10 +1,13 @@
-Here's a detailed README for your IPL Dashboard GitHub repository, incorporating your screenshots:
 
-```markdown
 IPL Performance Analytics Dashboard
 
 [Dashboard Preview]
-![](https://raw.githubusercontent.com/Jay-prakash13/Interactive-IPL-Dashboard/e35fce67675d5363b954386de6efd574e22db747/IPL%20Dashboard.png)
+
+![image alt](https://raw.githubusercontent.com/Jay-prakash13/Interactive-IPL-Dashboard/e35fce67675d5363b954386de6efd574e22db747/IPL%20Dashboard.png)
+
+Here's a detailed README for your IPL Dashboard GitHub repository, incorporating your screenshots:
+
+
 
  ##Overview
 This Power BI dashboard provides comprehensive analysis of Indian Premier League (IPL) match data from 2008-2020. It transforms raw cricket data into actionable insights through interactive visualizations, enabling data-driven decision making for teams, analysts, and fans.
@@ -41,7 +44,7 @@ A[Data Extraction] --> B[Data Transformation]
 B --> C[Data Modeling]
 C --> D[Metric Calculation]
 D --> E[Visualization]
-```
+
 
 1. **ETL Pipeline**:
    - Extracted raw data from CSV files
