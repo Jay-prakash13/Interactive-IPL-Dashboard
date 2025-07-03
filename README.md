@@ -29,7 +29,10 @@ This Power BI dashboard provides comprehensive analysis of Indian Premier League
 | Tournament Stats | Total Runs, Total Wickets, Match Counts |
 
  ##Data Sources
-[Data Structure](Screenshot%202025-07-03%20215257.png)
+[Data Structure]
+
+![image alt](https://github.com/Jay-prakash13/Interactive-IPL-Dashboard/blob/main/Pipe%20lining%20of%20databases.png)
+
 - Primary Dataset: 12 seasons of IPL match data (2008-2020)
 - Data Points: 800+ matches, 2000+ player records
 - Data Structure: 
